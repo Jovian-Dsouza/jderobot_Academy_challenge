@@ -1,5 +1,9 @@
 # JdeRobot Academy Challenge 2021
 
+## YouTube video
+
+[![follow line video](https://img.youtube.com/vi/D28bFF6xgWk/0.jpg)](https://youtu.be/D28bFF6xgWk)
+
 ## How to setup JdeRobot Academy
 
 Install
@@ -22,6 +26,4 @@ Then open `RoboticsAcademy/exercises/<exercise_name>/web-template/exercise.html`
 
 ![follow_line_GIF](follow_line/GIF.gif)
 
-### YouTube video
 
-[![follow line video](https://img.youtube.com/vi/D28bFF6xgWk/0.jpg)](https://youtu.be/D28bFF6xgWk)
