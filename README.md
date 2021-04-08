@@ -2,6 +2,9 @@
 
 ## YouTube video
 
+### Drone Gymkhana
+[![Drone Gymkhana video](https://img.youtube.com/vi/7ATJwVE3H1I/0.jpg)](https://youtu.be/7ATJwVE3H1I)
+
 ### Amazon Warehouse Robot
 [![follow line video](https://img.youtube.com/vi/_B97Z-RKh-Q/0.jpg)](https://youtu.be/_B97Z-RKh-Q)
 
@@ -34,3 +37,9 @@ Then open `RoboticsAcademy/exercises/<exercise_name>/web-template/exercise.html`
 ![Amazon Warehouse Robot](https://media.giphy.com/media/uMk4669ilaGPX8G80r/giphy.gif)
 
 [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy/exercises/MobileRobots/single_robot_amazon_warehouse/)
+
+## Drone Gymkhana
+
+Docker setup for this exercise : [RoboticsAcademyDocker](https://github.com/Jovian-Dsouza/RoboticsAcademyDocker)
+
+[RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy/exercises/Drones/drone_gymkhana)
